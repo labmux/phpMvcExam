@@ -1,7 +1,5 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: eliranassaraf
- * Date: 2019-04-07
- * Time: 11:20 AM
- */
+<?php require APPROOT . '/views/inc/header.php'; ?>
+
+<h2>Great Success</h2>
+
+<?php require APPROOT . '/views/inc/footer.php'; ?>
